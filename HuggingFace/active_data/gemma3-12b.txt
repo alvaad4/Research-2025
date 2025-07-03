@@ -1,0 +1,909 @@
+llama_perf_context_print:        load time =    1096.14 ms
+
+llama_perf_context_print: prompt eval time =    1096.02 ms /    21 tokens (   52.19 ms per token,    19.16 tokens per second)
+
+llama_perf_context_print:        eval time =   25570.64 ms /    99 runs   (  258.29 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   26833.69 ms /   120 tokens
+
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 100, 'total_tokens': 121}}
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1050.07 ms /    18 tokens (   58.34 ms per token,    17.14 tokens per second)
+
+llama_perf_context_print:        eval time =    7759.97 ms /    30 runs   (  258.67 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    8860.22 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1907.60 ms /    35 tokens (   54.50 ms per token,    18.35 tokens per second)
+
+llama_perf_context_print:        eval time =    5445.62 ms /    21 runs   (  259.32 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =    7389.50 ms /    56 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    2090.42 ms /    37 tokens (   56.50 ms per token,    17.70 tokens per second)
+
+llama_perf_context_print:        eval time =   21004.21 ms /    81 runs   (  259.31 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   23231.63 ms /   118 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1750.82 ms /    29 tokens (   60.37 ms per token,    16.56 tokens per second)
+
+llama_perf_context_print:        eval time =    7574.72 ms /    29 runs   (  261.20 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =    9374.98 ms /    58 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1288.94 ms /    21 tokens (   61.38 ms per token,    16.29 tokens per second)
+
+llama_perf_context_print:        eval time =   33509.13 ms /   125 runs   (  268.07 ms per token,     3.73 tokens per second)
+
+llama_perf_context_print:       total time =   35024.92 ms /   146 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1583.70 ms /    19 tokens (   83.35 ms per token,    12.00 tokens per second)
+
+llama_perf_context_print:        eval time =  167421.76 ms /   488 runs   (  343.08 ms per token,     2.91 tokens per second)
+
+llama_perf_context_print:       total time =  170135.01 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1241.46 ms /    18 tokens (   68.97 ms per token,    14.50 tokens per second)
+
+llama_perf_context_print:        eval time =  128527.82 ms /   489 runs   (  262.84 ms per token,     3.80 tokens per second)
+
+llama_perf_context_print:       total time =  130717.34 ms /   507 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 18, 'completion_tokens': 30, 'total_tokens': 48}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 39, 'completion_tokens': 21, 'total_tokens': 60}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 41, 'completion_tokens': 81, 'total_tokens': 122}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 33, 'completion_tokens': 29, 'total_tokens': 62}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 125, 'total_tokens': 150}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =     877.59 ms /    16 tokens (   54.85 ms per token,    18.23 tokens per second)
+
+llama_perf_context_print:        eval time =    6705.54 ms /    25 runs   (  268.22 ms per token,     3.73 tokens per second)
+
+llama_perf_context_print:       total time =    7627.02 ms /    41 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1545.06 ms /    23 tokens (   67.18 ms per token,    14.89 tokens per second)
+
+llama_perf_context_print:        eval time =   29235.46 ms /   112 runs   (  261.03 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   30973.40 ms /   135 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =     962.00 ms /    13 tokens (   74.00 ms per token,    13.51 tokens per second)
+
+llama_perf_context_print:        eval time =   42091.16 ms /   162 runs   (  259.82 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   43338.32 ms /   175 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    3163.54 ms /    55 tokens (   57.52 ms per token,    17.39 tokens per second)
+
+llama_perf_context_print:        eval time =   21821.67 ms /    84 runs   (  259.78 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   25129.78 ms /   139 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =     858.87 ms /    12 tokens (   71.57 ms per token,    13.97 tokens per second)
+
+llama_perf_context_print:        eval time =   12165.99 ms /    47 runs   (  258.85 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   13105.87 ms /    59 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    2533.58 ms /    42 tokens (   60.32 ms per token,    16.58 tokens per second)
+
+llama_perf_context_print:        eval time =   47283.20 ms /   177 runs   (  267.14 ms per token,     3.74 tokens per second)
+
+llama_perf_context_print:       total time =   50136.25 ms /   219 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1685.03 ms /    28 tokens (   60.18 ms per token,    16.62 tokens per second)
+
+llama_perf_context_print:        eval time =  121169.23 ms /   464 runs   (  261.14 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =  123747.09 ms /   492 tokens
+
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 490, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 25, 'total_tokens': 45}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 27, 'completion_tokens': 112, 'total_tokens': 139}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 17, 'completion_tokens': 162, 'total_tokens': 179}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 59, 'completion_tokens': 84, 'total_tokens': 143}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 16, 'completion_tokens': 47, 'total_tokens': 63}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 46, 'completion_tokens': 177, 'total_tokens': 223}}
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1018.93 ms /    17 tokens (   59.94 ms per token,    16.68 tokens per second)
+
+llama_perf_context_print:        eval time =    8011.81 ms /    31 runs   (  258.45 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    9083.98 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1818.78 ms /    33 tokens (   55.11 ms per token,    18.14 tokens per second)
+
+llama_perf_context_print:        eval time =   21732.14 ms /    84 runs   (  258.72 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   23694.33 ms /   117 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1021.39 ms /    17 tokens (   60.08 ms per token,    16.64 tokens per second)
+
+llama_perf_context_print:        eval time =  127939.52 ms /   490 runs   (  261.10 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =  129915.96 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1493.45 ms /    25 tokens (   59.74 ms per token,    16.74 tokens per second)
+
+llama_perf_context_print:        eval time =   38352.23 ms /   148 runs   (  259.14 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   40103.35 ms /   173 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1247.61 ms /    21 tokens (   59.41 ms per token,    16.83 tokens per second)
+
+llama_perf_context_print:        eval time =   55561.63 ms /   214 runs   (  259.63 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   57189.60 ms /   235 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 32, 'completion_tokens': 464, 'total_tokens': 496}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 31, 'total_tokens': 52}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 84, 'total_tokens': 121}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 491, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 29, 'completion_tokens': 148, 'total_tokens': 177}}
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1700.98 ms /    32 tokens (   53.16 ms per token,    18.81 tokens per second)
+
+llama_perf_context_print:        eval time =    8793.69 ms /    34 runs   (  258.64 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   10553.29 ms /    66 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1820.72 ms /    33 tokens (   55.17 ms per token,    18.12 tokens per second)
+
+llama_perf_context_print:        eval time =   17343.58 ms /    67 runs   (  258.86 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   19278.92 ms /   100 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1317.45 ms /    19 tokens (   69.34 ms per token,    14.42 tokens per second)
+
+llama_perf_context_print:        eval time =  127434.25 ms /   488 runs   (  261.14 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =  129696.81 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1891.88 ms /    30 tokens (   63.06 ms per token,    15.86 tokens per second)
+
+llama_perf_context_print:        eval time =   27979.77 ms /   108 runs   (  259.07 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   30058.18 ms /   138 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =    1159.51 ms /    18 tokens (   64.42 ms per token,    15.52 tokens per second)
+
+llama_perf_context_print:        eval time =   13692.59 ms /    53 runs   (  258.35 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   14942.38 ms /    71 tokens
+
+llama_perf_context_print:        load time =    1050.19 ms
+
+llama_perf_context_print: prompt eval time =     866.25 ms /    16 tokens (   54.14 ms per token,    18.47 tokens per second)
+
+llama_perf_context_print:        eval time =   22248.01 ms /    86 runs   (  258.70 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   23261.85 ms /   102 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 214, 'total_tokens': 239}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 36, 'completion_tokens': 34, 'total_tokens': 70}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 67, 'total_tokens': 104}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 34, 'completion_tokens': 108, 'total_tokens': 142}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 53, 'total_tokens': 75}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 86, 'total_tokens': 106}}
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1044.97 ms /    18 tokens (   58.05 ms per token,    17.23 tokens per second)
+
+llama_perf_context_print:        eval time =    7726.06 ms /    30 runs   (  257.54 ms per token,     3.88 tokens per second)
+
+llama_perf_context_print:       total time =    8821.44 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1875.60 ms /    35 tokens (   53.59 ms per token,    18.66 tokens per second)
+
+llama_perf_context_print:        eval time =    5433.83 ms /    21 runs   (  258.75 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =    7345.71 ms /    56 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    2034.95 ms /    37 tokens (   55.00 ms per token,    18.18 tokens per second)
+
+llama_perf_context_print:        eval time =   20947.59 ms /    81 runs   (  258.61 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =   23121.47 ms /   118 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1738.36 ms /    29 tokens (   59.94 ms per token,    16.68 tokens per second)
+
+llama_perf_context_print:        eval time =    7493.00 ms /    29 runs   (  258.38 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    9281.54 ms /    58 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1238.36 ms /    21 tokens (   58.97 ms per token,    16.96 tokens per second)
+
+llama_perf_context_print:        eval time =   32375.79 ms /   125 runs   (  259.01 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   33832.56 ms /   146 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1342.56 ms /    19 tokens (   70.66 ms per token,    14.15 tokens per second)
+
+llama_perf_context_print:        eval time =  127651.63 ms /   488 runs   (  261.58 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  129973.75 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1207.53 ms /    18 tokens (   67.09 ms per token,    14.91 tokens per second)
+
+llama_perf_context_print:        eval time =  127969.55 ms /   489 runs   (  261.70 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130147.18 ms /   507 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 18, 'completion_tokens': 30, 'total_tokens': 48}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 39, 'completion_tokens': 21, 'total_tokens': 60}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 41, 'completion_tokens': 81, 'total_tokens': 122}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 33, 'completion_tokens': 29, 'total_tokens': 62}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 125, 'total_tokens': 150}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =     922.59 ms /    16 tokens (   57.66 ms per token,    17.34 tokens per second)
+
+llama_perf_context_print:        eval time =    6456.61 ms /    25 runs   (  258.26 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    7422.53 ms /    41 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1555.66 ms /    23 tokens (   67.64 ms per token,    14.78 tokens per second)
+
+llama_perf_context_print:        eval time =   29051.86 ms /   112 runs   (  259.39 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   30801.44 ms /   135 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =     966.49 ms /    13 tokens (   74.35 ms per token,    13.45 tokens per second)
+
+llama_perf_context_print:        eval time =   42081.26 ms /   162 runs   (  259.76 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   43335.43 ms /   175 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    3132.81 ms /    55 tokens (   56.96 ms per token,    17.56 tokens per second)
+
+llama_perf_context_print:        eval time =   21830.56 ms /    84 runs   (  259.89 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   25108.80 ms /   139 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =     832.09 ms /    12 tokens (   69.34 ms per token,    14.42 tokens per second)
+
+llama_perf_context_print:        eval time =   12162.58 ms /    47 runs   (  258.78 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   13075.41 ms /    59 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    2508.54 ms /    42 tokens (   59.73 ms per token,    16.74 tokens per second)
+
+llama_perf_context_print:        eval time =   46032.19 ms /   177 runs   (  260.07 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   48851.46 ms /   219 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1715.41 ms /    28 tokens (   61.26 ms per token,    16.32 tokens per second)
+
+llama_perf_context_print:        eval time =  121460.03 ms /   464 runs   (  261.77 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  124078.79 ms /   492 tokens
+
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 490, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 25, 'total_tokens': 45}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 27, 'completion_tokens': 112, 'total_tokens': 139}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 17, 'completion_tokens': 162, 'total_tokens': 179}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 59, 'completion_tokens': 84, 'total_tokens': 143}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 16, 'completion_tokens': 47, 'total_tokens': 63}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 46, 'completion_tokens': 177, 'total_tokens': 223}}
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1030.89 ms /    17 tokens (   60.64 ms per token,    16.49 tokens per second)
+
+llama_perf_context_print:        eval time =    8021.20 ms /    31 runs   (  258.75 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =    9105.60 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1810.62 ms /    33 tokens (   54.87 ms per token,    18.23 tokens per second)
+
+llama_perf_context_print:        eval time =   21818.33 ms /    84 runs   (  259.74 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   23775.00 ms /   117 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1049.90 ms /    17 tokens (   61.76 ms per token,    16.19 tokens per second)
+
+llama_perf_context_print:        eval time =  128284.19 ms /   490 runs   (  261.80 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130302.12 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1518.38 ms /    25 tokens (   60.74 ms per token,    16.46 tokens per second)
+
+llama_perf_context_print:        eval time =   38538.38 ms /   148 runs   (  260.39 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   40318.86 ms /   173 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1283.69 ms /    21 tokens (   61.13 ms per token,    16.36 tokens per second)
+
+llama_perf_context_print:        eval time =   55814.60 ms /   214 runs   (  260.82 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   57486.79 ms /   235 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 32, 'completion_tokens': 464, 'total_tokens': 496}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 31, 'total_tokens': 52}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 84, 'total_tokens': 121}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 491, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 29, 'completion_tokens': 148, 'total_tokens': 177}}
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1708.08 ms /    32 tokens (   53.38 ms per token,    18.73 tokens per second)
+
+llama_perf_context_print:        eval time =    8835.15 ms /    34 runs   (  259.86 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   10602.93 ms /    66 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1850.14 ms /    33 tokens (   56.06 ms per token,    17.84 tokens per second)
+
+llama_perf_context_print:        eval time =   17410.67 ms /    67 runs   (  259.86 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   19376.83 ms /   100 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1342.46 ms /    19 tokens (   70.66 ms per token,    14.15 tokens per second)
+
+llama_perf_context_print:        eval time =  128070.10 ms /   488 runs   (  262.44 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  130374.92 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1928.93 ms /    30 tokens (   64.30 ms per token,    15.55 tokens per second)
+
+llama_perf_context_print:        eval time =   28116.07 ms /   108 runs   (  260.33 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   30234.30 ms /   138 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =    1190.01 ms /    18 tokens (   66.11 ms per token,    15.13 tokens per second)
+
+llama_perf_context_print:        eval time =   13758.95 ms /    53 runs   (  259.60 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   15041.17 ms /    71 tokens
+
+llama_perf_context_print:        load time =    1045.05 ms
+
+llama_perf_context_print: prompt eval time =     978.44 ms /    16 tokens (   61.15 ms per token,    16.35 tokens per second)
+
+llama_perf_context_print:        eval time =   22340.81 ms /    86 runs   (  259.78 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   23469.42 ms /   102 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 214, 'total_tokens': 239}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 36, 'completion_tokens': 34, 'total_tokens': 70}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 67, 'total_tokens': 104}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 34, 'completion_tokens': 108, 'total_tokens': 142}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 53, 'total_tokens': 75}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 86, 'total_tokens': 106}}
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1088.80 ms /    18 tokens (   60.49 ms per token,    16.53 tokens per second)
+
+llama_perf_context_print:        eval time =    7725.60 ms /    30 runs   (  257.52 ms per token,     3.88 tokens per second)
+
+llama_perf_context_print:       total time =    8864.81 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1937.92 ms /    35 tokens (   55.37 ms per token,    18.06 tokens per second)
+
+llama_perf_context_print:        eval time =    5414.60 ms /    21 runs   (  257.84 ms per token,     3.88 tokens per second)
+
+llama_perf_context_print:       total time =    7388.80 ms /    56 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    2040.39 ms /    37 tokens (   55.15 ms per token,    18.13 tokens per second)
+
+llama_perf_context_print:        eval time =   20963.78 ms /    81 runs   (  258.81 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   23143.39 ms /   118 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1838.57 ms /    29 tokens (   63.40 ms per token,    15.77 tokens per second)
+
+llama_perf_context_print:        eval time =    7493.33 ms /    29 runs   (  258.39 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    9382.01 ms /    58 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1321.74 ms /    21 tokens (   62.94 ms per token,    15.89 tokens per second)
+
+llama_perf_context_print:        eval time =   32402.41 ms /   125 runs   (  259.22 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   33940.26 ms /   146 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1326.36 ms /    19 tokens (   69.81 ms per token,    14.32 tokens per second)
+
+llama_perf_context_print:        eval time =  127715.38 ms /   488 runs   (  261.71 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130010.84 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1187.21 ms /    18 tokens (   65.96 ms per token,    15.16 tokens per second)
+
+llama_perf_context_print:        eval time =  128062.24 ms /   489 runs   (  261.89 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130212.96 ms /   507 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 18, 'completion_tokens': 30, 'total_tokens': 48}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 39, 'completion_tokens': 21, 'total_tokens': 60}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 41, 'completion_tokens': 81, 'total_tokens': 122}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 33, 'completion_tokens': 29, 'total_tokens': 62}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 125, 'total_tokens': 150}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =     866.08 ms /    16 tokens (   54.13 ms per token,    18.47 tokens per second)
+
+llama_perf_context_print:        eval time =    6493.54 ms /    25 runs   (  259.74 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =    7403.54 ms /    41 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1571.38 ms /    23 tokens (   68.32 ms per token,    14.64 tokens per second)
+
+llama_perf_context_print:        eval time =   29135.11 ms /   112 runs   (  260.13 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   30904.55 ms /   135 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =     975.29 ms /    13 tokens (   75.02 ms per token,    13.33 tokens per second)
+
+llama_perf_context_print:        eval time =   42161.85 ms /   162 runs   (  260.26 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   43425.73 ms /   175 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    3173.53 ms /    55 tokens (   57.70 ms per token,    17.33 tokens per second)
+
+llama_perf_context_print:        eval time =   21873.46 ms /    84 runs   (  260.40 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   25195.18 ms /   139 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =     855.75 ms /    12 tokens (   71.31 ms per token,    14.02 tokens per second)
+
+llama_perf_context_print:        eval time =   12199.28 ms /    47 runs   (  259.56 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   13136.30 ms /    59 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    2462.95 ms /    42 tokens (   58.64 ms per token,    17.05 tokens per second)
+
+llama_perf_context_print:        eval time =   46162.46 ms /   177 runs   (  260.80 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   48941.08 ms /   219 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1628.14 ms /    28 tokens (   58.15 ms per token,    17.20 tokens per second)
+
+llama_perf_context_print:        eval time =  121748.18 ms /   464 runs   (  262.39 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  124298.41 ms /   492 tokens
+
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 490, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 25, 'total_tokens': 45}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 27, 'completion_tokens': 112, 'total_tokens': 139}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 17, 'completion_tokens': 162, 'total_tokens': 179}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 59, 'completion_tokens': 84, 'total_tokens': 143}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 16, 'completion_tokens': 47, 'total_tokens': 63}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 46, 'completion_tokens': 177, 'total_tokens': 223}}
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1040.98 ms /    17 tokens (   61.23 ms per token,    16.33 tokens per second)
+
+llama_perf_context_print:        eval time =    8051.83 ms /    31 runs   (  259.74 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =    9146.86 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1850.21 ms /    33 tokens (   56.07 ms per token,    17.84 tokens per second)
+
+llama_perf_context_print:        eval time =   21848.70 ms /    84 runs   (  260.10 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   23844.91 ms /   117 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1132.18 ms /    17 tokens (   66.60 ms per token,    15.02 tokens per second)
+
+llama_perf_context_print:        eval time =  128593.01 ms /   490 runs   (  262.43 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  130710.47 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1566.78 ms /    25 tokens (   62.67 ms per token,    15.96 tokens per second)
+
+llama_perf_context_print:        eval time =   38545.18 ms /   148 runs   (  260.44 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   40374.55 ms /   173 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1273.25 ms /    21 tokens (   60.63 ms per token,    16.49 tokens per second)
+
+llama_perf_context_print:        eval time =   55823.65 ms /   214 runs   (  260.86 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   57490.63 ms /   235 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 32, 'completion_tokens': 464, 'total_tokens': 496}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 31, 'total_tokens': 52}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 84, 'total_tokens': 121}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 491, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 29, 'completion_tokens': 148, 'total_tokens': 177}}
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1721.77 ms /    32 tokens (   53.81 ms per token,    18.59 tokens per second)
+
+llama_perf_context_print:        eval time =    8842.37 ms /    34 runs   (  260.07 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   10624.42 ms /    66 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1931.34 ms /    33 tokens (   58.53 ms per token,    17.09 tokens per second)
+
+llama_perf_context_print:        eval time =   17389.53 ms /    67 runs   (  259.55 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   19436.22 ms /   100 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1303.57 ms /    19 tokens (   68.61 ms per token,    14.58 tokens per second)
+
+llama_perf_context_print:        eval time =  127682.67 ms /   488 runs   (  261.64 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  129941.41 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1934.59 ms /    30 tokens (   64.49 ms per token,    15.51 tokens per second)
+
+llama_perf_context_print:        eval time =   28012.86 ms /   108 runs   (  259.38 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   30135.56 ms /   138 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =    1166.35 ms /    18 tokens (   64.80 ms per token,    15.43 tokens per second)
+
+llama_perf_context_print:        eval time =   13725.35 ms /    53 runs   (  258.97 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   14982.18 ms /    71 tokens
+
+llama_perf_context_print:        load time =    1088.88 ms
+
+llama_perf_context_print: prompt eval time =     848.39 ms /    16 tokens (   53.02 ms per token,    18.86 tokens per second)
+
+llama_perf_context_print:        eval time =   22273.00 ms /    86 runs   (  258.99 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   23269.07 ms /   102 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 214, 'total_tokens': 239}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 36, 'completion_tokens': 34, 'total_tokens': 70}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 67, 'total_tokens': 104}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 34, 'completion_tokens': 108, 'total_tokens': 142}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 53, 'total_tokens': 75}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 86, 'total_tokens': 106}}
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1105.67 ms /    18 tokens (   61.43 ms per token,    16.28 tokens per second)
+
+llama_perf_context_print:        eval time =    7753.24 ms /    30 runs   (  258.44 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    8912.24 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    2175.60 ms /    35 tokens (   62.16 ms per token,    16.09 tokens per second)
+
+llama_perf_context_print:        eval time =    5428.85 ms /    21 runs   (  258.52 ms per token,     3.87 tokens per second)
+
+llama_perf_context_print:       total time =    7641.30 ms /    56 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    2054.97 ms /    37 tokens (   55.54 ms per token,    18.01 tokens per second)
+
+llama_perf_context_print:        eval time =   21010.22 ms /    81 runs   (  259.39 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =   23203.44 ms /   118 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1771.93 ms /    29 tokens (   61.10 ms per token,    16.37 tokens per second)
+
+llama_perf_context_print:        eval time =    7516.23 ms /    29 runs   (  259.18 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =    9338.13 ms /    58 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1334.04 ms /    21 tokens (   63.53 ms per token,    15.74 tokens per second)
+
+llama_perf_context_print:        eval time =   32440.35 ms /   125 runs   (  259.52 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   33990.53 ms /   146 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1310.93 ms /    19 tokens (   69.00 ms per token,    14.49 tokens per second)
+
+llama_perf_context_print:        eval time =  127747.85 ms /   488 runs   (  261.78 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130015.41 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1166.46 ms /    18 tokens (   64.80 ms per token,    15.43 tokens per second)
+
+llama_perf_context_print:        eval time =  127993.95 ms /   489 runs   (  261.75 ms per token,     3.82 tokens per second)
+
+llama_perf_context_print:       total time =  130109.16 ms /   507 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 18, 'completion_tokens': 30, 'total_tokens': 48}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 39, 'completion_tokens': 21, 'total_tokens': 60}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 41, 'completion_tokens': 81, 'total_tokens': 122}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 33, 'completion_tokens': 29, 'total_tokens': 62}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 125, 'total_tokens': 150}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =     869.03 ms /    16 tokens (   54.31 ms per token,    18.41 tokens per second)
+
+llama_perf_context_print:        eval time =    6477.90 ms /    25 runs   (  259.12 ms per token,     3.86 tokens per second)
+
+llama_perf_context_print:       total time =    7390.91 ms /    41 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1552.51 ms /    23 tokens (   67.50 ms per token,    14.81 tokens per second)
+
+llama_perf_context_print:        eval time =   29069.48 ms /   112 runs   (  259.55 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   30815.05 ms /   135 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =     961.30 ms /    13 tokens (   73.95 ms per token,    13.52 tokens per second)
+
+llama_perf_context_print:        eval time =   42081.23 ms /   162 runs   (  259.76 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   43327.65 ms /   175 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    3127.53 ms /    55 tokens (   56.86 ms per token,    17.59 tokens per second)
+
+llama_perf_context_print:        eval time =   21897.88 ms /    84 runs   (  260.69 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   25171.63 ms /   139 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =     860.35 ms /    12 tokens (   71.70 ms per token,    13.95 tokens per second)
+
+llama_perf_context_print:        eval time =   12197.87 ms /    47 runs   (  259.53 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   13140.00 ms /    59 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    2483.23 ms /    42 tokens (   59.12 ms per token,    16.91 tokens per second)
+
+llama_perf_context_print:        eval time =   46169.71 ms /   177 runs   (  260.85 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   48967.75 ms /   219 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1622.03 ms /    28 tokens (   57.93 ms per token,    17.26 tokens per second)
+
+llama_perf_context_print:        eval time =  121800.64 ms /   464 runs   (  262.50 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  124332.73 ms /   492 tokens
+
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 490, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 25, 'total_tokens': 45}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 27, 'completion_tokens': 112, 'total_tokens': 139}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 17, 'completion_tokens': 162, 'total_tokens': 179}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 59, 'completion_tokens': 84, 'total_tokens': 143}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 16, 'completion_tokens': 47, 'total_tokens': 63}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 46, 'completion_tokens': 177, 'total_tokens': 223}}
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1038.33 ms /    17 tokens (   61.08 ms per token,    16.37 tokens per second)
+
+llama_perf_context_print:        eval time =    8057.36 ms /    31 runs   (  259.91 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =    9149.64 ms /    48 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1846.22 ms /    33 tokens (   55.95 ms per token,    17.87 tokens per second)
+
+llama_perf_context_print:        eval time =   21860.39 ms /    84 runs   (  260.24 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   23853.61 ms /   117 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1117.89 ms /    17 tokens (   65.76 ms per token,    15.21 tokens per second)
+
+llama_perf_context_print:        eval time =  128612.07 ms /   490 runs   (  262.47 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  130723.48 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1554.00 ms /    25 tokens (   62.16 ms per token,    16.09 tokens per second)
+
+llama_perf_context_print:        eval time =   38558.69 ms /   148 runs   (  260.53 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   40373.64 ms /   173 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1290.42 ms /    21 tokens (   61.45 ms per token,    16.27 tokens per second)
+
+llama_perf_context_print:        eval time =   55830.10 ms /   214 runs   (  260.89 ms per token,     3.83 tokens per second)
+
+llama_perf_context_print:       total time =   57508.02 ms /   235 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 32, 'completion_tokens': 464, 'total_tokens': 496}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 31, 'total_tokens': 52}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 84, 'total_tokens': 121}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 21, 'completion_tokens': 491, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 29, 'completion_tokens': 148, 'total_tokens': 177}}
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1730.53 ms /    32 tokens (   54.08 ms per token,    18.49 tokens per second)
+
+llama_perf_context_print:        eval time =    8827.26 ms /    34 runs   (  259.63 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   10616.91 ms /    66 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1932.77 ms /    33 tokens (   58.57 ms per token,    17.07 tokens per second)
+
+llama_perf_context_print:        eval time =   17408.70 ms /    67 runs   (  259.83 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   19457.31 ms /   100 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1323.00 ms /    19 tokens (   69.63 ms per token,    14.36 tokens per second)
+
+llama_perf_context_print:        eval time =  128116.94 ms /   488 runs   (  262.53 ms per token,     3.81 tokens per second)
+
+llama_perf_context_print:       total time =  130409.23 ms /   507 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    2001.72 ms /    30 tokens (   66.72 ms per token,    14.99 tokens per second)
+
+llama_perf_context_print:        eval time =   28108.53 ms /   108 runs   (  260.26 ms per token,     3.84 tokens per second)
+
+llama_perf_context_print:       total time =   30300.63 ms /   138 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =    1228.56 ms /    18 tokens (   68.25 ms per token,    14.65 tokens per second)
+
+llama_perf_context_print:        eval time =   13764.11 ms /    53 runs   (  259.70 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   15085.04 ms /    71 tokens
+
+llama_perf_context_print:        load time =    1106.01 ms
+
+llama_perf_context_print: prompt eval time =     869.69 ms /    16 tokens (   54.36 ms per token,    18.40 tokens per second)
+
+llama_perf_context_print:        eval time =   22349.59 ms /    86 runs   (  259.88 ms per token,     3.85 tokens per second)
+
+llama_perf_context_print:       total time =   23369.54 ms /   102 tokens
+
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 25, 'completion_tokens': 214, 'total_tokens': 239}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 36, 'completion_tokens': 34, 'total_tokens': 70}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 37, 'completion_tokens': 67, 'total_tokens': 104}}
+logprobs': None, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 23, 'completion_tokens': 489, 'total_tokens': 512}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 34, 'completion_tokens': 108, 'total_tokens': 142}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 22, 'completion_tokens': 53, 'total_tokens': 75}}
+logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 20, 'completion_tokens': 86, 'total_tokens': 106}}
