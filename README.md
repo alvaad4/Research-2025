@@ -3,7 +3,7 @@ June 9th - August 16th
 
 This project focuses on understanding the resource demands of Large Language Models (LLMs) in production environments, specifically the costs associated with using them after they have been trained. While the training of LLMs has been studied in depth, little attention has been given to the ongoing resource usage. Using open-source LLMs like DeepSeek and LLaMA, we will set up a testing environment that simulates real world chatbot deployments. The goal is to measure the performance of LLMs under different usage scenarios, such as varying user loads and prompt lengths.
 
-Project Progress Update (as of 6/12/25)
+Project Progress Update (as of 7/7/25)
 Over the past week, we’ve made significant strides in setting up our development environment, exploring LLMs, and building a robust system for automated data collection and analysis.
 
 Week Overview:
