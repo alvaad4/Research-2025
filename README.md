@@ -199,14 +199,3 @@ Developed prompt engineering strategies.
 
 - refined and implemented prompts
  
-Fix long prompt typos
-
-Add original source references
-
-Test longpromt.sh script
-
-Explored D3.js but found it not ideal for current goals.
-
-Appended prompt text to DataFrame to allow per-prompt comparison.
-
-Brainstormed how to calculate and visualize finish_reason metrics (e.g., force stops as %)
