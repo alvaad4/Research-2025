@@ -47,3 +47,166 @@ Week Overview:
 - Continued prompt generation and LLM testing (e.g., using "Summarize this file" < mobydick.txt).
 
 - Experimented with token limits, stack usage, and LLM config settings for improved model output.
+
+6/13/25 – Dataset Exploration & Technical Setbacks
+Finalized initial data exploration setup and ran through several gathered datasets.
+
+- Formatted Git repository for better organization.
+
+- Sourced long prompts from short stories to test LLM comprehension.
+
+- Faced technical issues:
+
+- Ollama instability
+
+- Limited computing resources
+
+- Broken LLMs and coding bugs
+
+6/16/25 – Literature Review & System Migration
+Conducted literature review on LLM throughput and latency (ACM Paper).
+
+- Reviewed key terms: tokens, throughput, TTFT.
+
+- Began exploring Ollama Python API and Hugging Face LLM hosting.
+
+- Migrated Ollama to new hard drive and began transferring models.
+
+- Represented CS Department at the Pathways Fair.
+
+6/17/25 – Storage & Model Comparisons
+Diagnosed external storage access issues after adding 1TB drive.
+
+- Gathered comparative data on all available Gemma models.
+
+- Installed LLaMA and created scripts for all versions.
+
+- Created additional prompts, including math-based inputs.
+
+6/18/25 – Access & Admin Config
+Installed Hugging Face models to Seagate drive.
+
+- Created new root password and admin account.
+
+- Attended Pathways Fair again for CS Department representation.
+
+6/20/25 – Server Scripting & Virtual Environments
+Developed new script execution concepts:
+
+- screen for long-running scripts
+
+- Shebang (#!) for multi-language script compatibility
+
+- Passed arguments to shell scripts using ./script.sh <model>
+
+- Successfully mounted and accessed Seagate drive.
+
+- Installed Ollama into main server, redirected model paths with OLLAMA_MODELS and OLLAMA_TMPDIR.
+
+- Installed Hugging Face into Seagate via virtual environments.
+
+6/23/25 – Event Day & Ollama Testing
+Commanded Ollama to run models with reduced load.
+
+- Tested scripts.
+
+- Represented CS at:
+
+  - 1:15 Major Fair
+
+  - 3:00–5:00 Student Shadow
+
+6/24/25 – Master Script Setup & Output Structuring
+Finalized Ollama script structure.
+
+- Created master scripts for long prompts and 25 base questions.
+
+- Appended timestamps to stats file outputs.
+
+- Began gathering Hugging Face outputs.
+
+6/25/25 – Metric Analysis & Output Automation
+Hugging Face Gemma run failed (initial attempts).
+
+- Installed quantized LLMs—dramatically improved speed.
+
+- Wrote Hugging Face output-to-graph code (early version).
+
+- Researched LLM benchmarking (Hugging Face Leaderboard).
+
+- Looked into CO₂ usage and other runtime metrics.
+
+Defined Primary Research Idea:
+“What is the lightest, most stable LLM for deployment in a basic web server setting?”
+
+- Refined regex data parsing
+
+6/26/25 – Tokenization Deep Dive & Research
+
+- Explored tokenization impact across languages and use cases.
+
+Began reviewing foundational papers:
+
+  - “Language Models are Unsupervised Multitask Learners”
+
+  - “DeepSeek: LLM Scaling with Longtermism”
+
+6/27/25 – Hugging Face & LLM Architecture Study
+Hugging Face working successfully.
+
+- Tested with LLaMA.cpp and Transformers libraries.
+
+- Compared benchmark outputs across architectures.
+
+- Began preparing internal presentation of findings.
+
+6/30/25 – Benchmarking and Automation
+Set up LLM benchmarks to run overnight.
+
+- Progressed Hugging Face scripting and parsing workflows.
+
+- Integrated regular expressions for stat parsing.
+
+7/1/25 – Web Server Development & Prompt Automation
+Created internal web server.
+
+- Basic CSS and frontend setup (testing layout).
+
+- Resolved LLM install issue (“LLM not found” bug).
+
+- Gathered output and error streams using > output.txt 2>&1.
+
+- Refined automated parsing pipeline.
+
+7/2/25 – Dataset Expansion & Overnight Scripts
+Ran LLM evaluations (exploratory).
+
+- Enabled multi-dataset compatibility for data-vis-huggingface.
+
+- Finalized auto-run scripts for Gemma, LLaMA, DeepSeek.
+
+- Generated data-visualizations for Hugging Face cpp models.
+
+7/3/25 – Full Hugging Face Automation & Future Goals
+Built Python scripts to auto-run all models in Hugging Face.
+
+- Used Pandas/Seaborn in VS Code for data graphs.
+
+7/7/25 – Prompt Refinement & Data Contextualization
+Developed prompt engineering strategies.
+
+- Automated long prompts (5 short stories with summaries).
+
+- refined and implemented prompts
+ 
+Fix long prompt typos
+
+Add original source references
+
+Test longpromt.sh script
+
+Explored D3.js but found it not ideal for current goals.
+
+Appended prompt text to DataFrame to allow per-prompt comparison.
+
+Brainstormed how to calculate and visualize finish_reason metrics (e.g., force stops as %)
