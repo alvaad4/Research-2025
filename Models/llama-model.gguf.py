@@ -1,6 +1,9 @@
 #pip3 install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
 #pip3 install transformers
 #pip3 install huggingface_hub
+ 
+ 
+"""
 from huggingface_hub import hf_hub_download
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
@@ -43,3 +46,23 @@ text_generation_pipeline = pipeline(
 response = text_generation_pipeline("Is pooping hard?")
 
 print(response)
+"""
+
+
+# !pip install llama-cpp-python
+
+from llama_cpp import Llama
+
+llm = Llama.from_pretrained(
+    repo_id="google/gemma-3-12b-it-qat-q4_0-gguf",
+    filename="gemma-3-12b-it-q4_0.gguf",
+)
+
+llm.create_chat_completion(
+    messages = [
+        {
+            "role": "user",
+            "content": "Describe the Statue of Liberty in one sentence." # Changed to a simple text string
+        }
+    ]
+)
