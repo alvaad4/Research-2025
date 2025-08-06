@@ -1,6 +1,5 @@
 #!/bin/bash
-source /home/rick/.venv/bin/activate
-pypath=/home/rick/.venv/bin/python
+
 #for i in {1..2}
 #do
 	date=$(date +"%Y-%m-%d-%H-%M-%S")
