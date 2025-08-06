@@ -1,0 +1,211 @@
+# --- Zero-shot Prompting ---
+Question: What is the capital of Australia?
+Question: Translate the following English sentence to Spanish: "How are you today?"
+Question: Is the following statement true or false? "The Earth is flat."
+Question: Identify the primary emotion expressed in the following sentence: "I am absolutely thrilled about the new project!"
+Question: Convert 100 degrees Celsius to Fahrenheit.
+Question: What is the largest mammal on Earth?
+Question: Write a single sentence describing the function of a heart.
+Question: What is the chemical symbol for gold?
+Question: Classify the following animal as a mammal, reptile, or bird: "Penguin"
+Question: Explain the concept of supply and demand in economics in one short paragraph.
+
+# --- Few-shot Prompting ---
+Question: Input: "The cat sat on the mat." Part-of-speech tagged: The(DET) cat(NOUN) sat(VERB) on(PREP) the(DET) mat(NOUN). Input: "Birds fly high." Part-of-speech tagged: Birds(NOUN) fly(VERB) high(ADV). Input: "She quickly ran to the store." Part-of-speech tagged:
+Question: Movie Title: "Inception" Genre: Science Fiction Movie Title: "The Shawshank Redemption" Genre: Drama Movie Title: "Jurassic Park" Genre:
+Question: Review: "Loved the food, but the service was slow." Sentiment: Mixed Review: "Absolutely terrible, waste of money." Sentiment: Negative Review: "This product exceeded all my expectations." Sentiment:
+Question: Simplify: x + x + y Result: 2x + y Simplify: 3a + 2b - a Result: 2a + 2b Simplify: 5p - 2p + 4q Result:
+Question: Synonym for 'happy': joyful Synonym for 'sad': sorrowful Synonym for 'big':
+Question: Country: France Capital: Paris Country: Germany Capital: Berlin Country: Italy Capital:
+Question: Input: "It's raining cats and dogs." Meaning: Raining very heavily. Input: "He's feeling under the weather." Meaning: Feeling unwell. Input: "She spilled the beans." Meaning:
+Question: Input: "Dr. Smith presented at the conference." Entities: Dr. Smith (PERSON) Input: "Apple Inc. announced new iPhones." Entities: Apple Inc. (ORG), iPhones (PRODUCT) Input: "The Eiffel Tower is in Paris." Entities:
+Question: Input: "convert 10 miles to kilometers" Tool Use: convert_units(10, 'miles', 'kilometers') Input: "calculate square root of 64" Tool Use: calculate_math(sqrt(64)) Input: "find today's weather in London" Tool Use:
+Question: Summary of: "The cat chased the mouse. The mouse ran into its hole." Summary: The cat hunted the mouse, which escaped into its hole. Summary of: "The sun rose, painting the sky with vibrant colors. Birds began to sing." Summary: The sunrise brought a colorful sky and the sound of singing birds. Summary of: "Scientists discovered a new exoplanet. It is twice the size of Earth and orbits a star similar to our sun." Summary:
+
+# --- Chain-of-Thought Prompting ---
+Question: If a baker bakes 20 cakes in 4 hours, and his assistant bakes 15 cakes in 5 hours, how many cakes can they bake together in 2 hours? Let's break this down.
+Question: I have a rectangular garden plot that is 10 meters long and 8 meters wide. If I want to put a fence around it, and fencing costs $5 per meter, how much will the fence cost? Show your steps.
+Question: Sarah is older than Tom. Tom is older than Lisa. Lisa is older than Mark. Is Sarah older than Mark? Explain your reasoning.
+Question: If an item is discounted by 20%, and then an additional 10% is taken off the discounted price, what is the total percentage discount from the original price? Think step by step.
+Question: You have three boxes. One is labeled "Apples," one is labeled "Oranges," and one is labeled "Apples and Oranges." You know that *every* box is incorrectly labeled. You can only pick one fruit from one box. Which box would you pick from to correctly label all three boxes? Explain your thought process.
+Question: A cyclist travels 60 miles in 3 hours. If they maintain the same average speed, how long will it take them to travel 100 miles? Break down the calculation.
+Question: If today is Tuesday, what day of the week will it be in 100 days? Think step by step.
+Question: You are planning a party. You need 3 sodas for every 2 guests. If you expect 18 guests, how many sodas do you need? Show your calculations.
+Question: Evaluate the expression: 5 + (3 * (8 - 4)) / 2. Show each step according to order of operations.
+Question: What is the sum of all integers from 1 to 10? Explain how you arrived at the answer.
+
+# --- ReAct (Reason + Act) ---
+Question: What was the winning country of the FIFA World Cup in 2018?
+Question: How many days are there between today's date and December 25th, 2025?
+Question: If a car travels at an average speed of 70 km/h, how long will it take to cover 500 km?
+Question: What is the current stock price of Google (GOOGL)?
+Question: Find a recent news headline about artificial intelligence.
+Question: What is the recipe for a classic Spaghetti Carbonara?
+Question: Calculate the square root of 256.
+Question: Who directed the movie "Oppenheimer" and what year was it released?
+Question: What are the main features of the latest iPhone model?
+Question: If a store has a 30% off sale on an item that originally costs $150, what is the final price after the discount?
+
+# --- Text Summarization ---
+Question: Summarize the following paragraph in one sentence: "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the spread of information. Before its advent, books were painstakingly copied by hand, making them expensive and rare. The printing press enabled the mass production of texts, leading to increased literacy, the wider dissemination of knowledge, and a profound impact on science, religion, and politics across Europe."
+Question: Provide a 2-3 sentence summary of the following excerpt: "Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, but since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels (like coal, oil, and gas) which produces heat-trapping gases. The consequences of climate change include rising sea levels, more extreme weather events, disruptions to ecosystems, and threats to human health and food security."
+Question: Condense the following short story into a paragraph of no more than 50 words: "Elara, a young elf, lived in a hidden village deep within the Whispering Woods. One day, a dark blight began to spread, slowly turning the ancient trees to ash. The elders believed it was a curse, but Elara, brave and curious, ventured out, following a faint, glowing trail. It led her to a forgotten spring, polluted by a shadowy crystal. With courage and a pure heart, she touched the crystal, absorbing its darkness and transforming it into light, healing the woods and saving her people."
+Question: Summarize the key argument made in the following research abstract: "This paper proposes a novel deep learning architecture for image recognition that significantly reduces computational overhead while maintaining high accuracy. Through the implementation of a sparse attention mechanism and a compressed convolutional layer, our model achieves a 30% reduction in parameters and a 45% faster inference time compared to state-of-the-art models on the ImageNet dataset, with only a 0.5% drop in accuracy. These results suggest a promising direction for deploying complex vision models on resource-constrained devices."
+Question: Provide a headline-style summary (less than 10 words) of the following event: "A powerful earthquake, measuring 7.8 on the Richter scale, struck the coast of Japan early Tuesday morning, triggering tsunami warnings and causing widespread damage to infrastructure and buildings. Authorities have urged residents in coastal areas to evacuate immediately as rescue efforts begin."
+Question: Summarize the main characteristics of a "black hole" based on the text below: "A black hole is a region of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation like light—can escape from it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. The boundary of the region from which no escape is possible is called the event horizon. Although it obstructs the passage of light, its presence can be inferred through its interaction with other matter and electromagnetic radiation, such as the disruption of nearby stars and active galactic nuclei."
+Question: Create a two-sentence news brief from this press release excerpt: "Quantum Leap Corp. announced today the successful development of QLC-001, a revolutionary battery technology promising to extend electric vehicle range by 50% and reduce charging times by 70%. The company plans to begin pilot manufacturing in Q3 2025, with full commercial production anticipated by mid-2026. This breakthrough is expected to significantly accelerate the global transition to sustainable transportation."
+Question: Summarize the plot of "Romeo and Juliet" in about 3-4 sentences.
+Question: Extract the key takeaway message from the following motivational quote: "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."
+Question: Summarize the process of photosynthesis in simple terms (2 sentences).
+
+# --- Information Extraction ---
+Question: Extract the full name, company, and job title from the following: "For inquiries, please contact our Head of Marketing, Ms. Eleanor Vance, at Global Innovations Inc."
+Question: From the product description, list the product name, price, and available colors: "Introducing the new Aurora Smartwatch! Priced at $299.99, this device comes in Midnight Black, Arctic Silver, and Rose Gold. Limited stock available."
+Question: Extract the date, city, and performing artist from the concert announcement: "Don't miss 'The Lumineers' live in concert! Coming to the Fillmore in San Francisco on October 27, 2025."
+Question: From the research abstract, identify the key finding and the methodology used: "Our study investigated the effects of mindfulness meditation on stress reduction in university students. Using a randomized controlled trial design with 120 participants, we found a statistically significant reduction in perceived stress levels (p < 0.01) in the intervention group compared to the control group."
+Question: List all ingredients from the recipe instructions: "First, sauté one onion and two cloves of garlic in olive oil. Then, add 400g of chopped tomatoes, 200ml of vegetable broth, and a pinch of basil and oregano. Simmer for 20 minutes."
+Question: From the job posting, extract the required experience level and any mandatory programming languages: "We are seeking a Senior Software Engineer with at least 5 years of experience in Python. Knowledge of Java is a plus, but Python is required. Must have experience with cloud platforms."
+Question: Identify the sender, recipient, and subject of the email fragment: "From: alex.smith@example.com To: project_team@example.com Subject: Meeting Agenda for Q3 Planning Hi Team, please review the attached agenda..."
+Question: From the medical note, extract the patient's age, diagnosis, and prescribed medication: "Patient: Jane Doe, Age: 45. Diagnosis: Type 2 Diabetes. Prescribed: Metformin 500mg twice daily."
+Question: Extract the product name, model number, and manufacturer from the following: "This is the new "UltraBlend Pro" blender, Model BL-7000, manufactured by KitchenMaster Inc."
+Question: From the academic citation, extract the author(s), publication year, and journal name: "Smith, J., & Johnson, A. (2023). The Impact of AI on Modern Education. Journal of Learning Technologies, 15(2), 123-145."
+
+# --- Question Answering ---
+Question: What is the largest ocean on Earth?
+Question: Based on the passage: "The human brain consumes about 20% of the body's total oxygen and calories, despite accounting for only 2% of the body's weight.", what percentage of the body's oxygen does the human brain consume?
+Question: Who wrote "To Kill a Mockingbird"?
+Question: According to the text: "The earliest known writing system, cuneiform, emerged in Mesopotamia around 3500-3000 BCE.", when did cuneiform emerge and where?
+Question: What is the process by which plants convert light energy into chemical energy?
+Question: From the following statement: "The company's revenue increased by 15% in Q1, driven primarily by strong sales in the European market.", what was the main driver of revenue increase in Q1?
+Question: Which planet is known as the "Red Planet"?
+Question: Based on this information: "Mount Everest is the Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. Its summit is 8,848.86 meters (29,031.7 feet) above sea level.", how high is Mount Everest in feet?
+Question: What is the primary gas responsible for the Earth's greenhouse effect?
+Question: According to the provided recipe: "Mix flour, sugar, and baking powder. Add eggs and milk, stir until smooth. Pour into a greased pan and bake at 350°F for 30 minutes.", what temperature should the oven be set to for baking?
+
+# --- Text Classification ---
+Question: Classify the following news article title into one of these categories: [Sports, Politics, Technology, Business, Health]: "Tech Giant Unveils New AI-Powered Smartwatch"
+Question: Categorize the sentiment of the following customer review: [Positive, Negative, Neutral]: "The delivery was fast, but the product arrived damaged."
+Question: Classify the following email subject line as [Spam, Work, Personal, Marketing]: "URGENT: Your account has been compromised! Click here now!"
+Question: What is the domain of the following research paper title: [Physics, Biology, Chemistry, Computer Science, Economics]: "Quantum Entanglement in Superconducting Qubits"
+Question: Categorize the following short text based on its genre: [News Report, Advertisement, Recipe, Poem]: "Preheat oven to 375°F. Mix flour, sugar, eggs, and milk. Bake for 25 minutes."
+Question: Classify the following sentence as pertaining to [History, Geography, Science, Arts]: "The Roman Empire fell in 476 AD, marking the end of ancient civilization in Europe."
+Question: What is the primary purpose of this sentence: [Inform, Persuade, Entertain, Instruct]: "Buy now and get 50% off for a limited time!"
+Question: Classify the following product description based on product type: [Apparel, Electronics, Home Goods, Food]: "A lightweight, noise-cancelling over-ear headphone with Bluetooth connectivity."
+Question: Assign a customer service issue type to the following query: [Billing, Technical Support, Product Inquiry, Returns]: "My Wi-Fi keeps disconnecting, and I can't access the internet."
+Question: Classify the following book title based on its likely subject: [Fiction, Non-fiction]: "The History of the World in 100 Objects"
+
+# --- Conversational Prompts ---
+# These prompts simulate multi-turn conversations. Each conversation block
+# includes multiple messages with 'role' and 'content', representing the
+# dialogue history. The LLM's task is to provide the next appropriate response
+# based on the full context.
+
+--- CONVERSATION START ---
+role: user
+content: Hi there! I'm looking for a fantasy book recommendation.
+---
+role: assistant
+content: Of course! Do you have any preferences, like dragons, magic schools, or perhaps a particular subgenre?
+---
+role: user
+content: I really like dragons and epic quests.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: My internet is not working.
+---
+role: assistant
+content: I'm sorry to hear that. Have you tried restarting your router and modem?
+---
+role: user
+content: Yes, I tried that already.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: What's the weather like today?
+---
+role: assistant
+content: I can help with that! Where are you located, or what city are you interested in?
+---
+role: user
+content: I'm in Travelers Rest, South Carolina.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: Can you tell me a bit about artificial intelligence?
+---
+role: assistant
+content: Certainly! Artificial intelligence, or AI, refers to the simulation of human intelligence in machines programmed to think like humans and mimic their actions. Are you interested in a specific aspect, like its history, applications, or ethical considerations?
+---
+role: user
+content: Tell me about its applications.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: I want to book a flight from New York to London.
+---
+role: assistant
+content: Okay, and what dates are you looking to travel?
+---
+role: user
+content: I'd like to depart around July 15th and return around July 22nd.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: I'm feeling a bit down today.
+---
+role: assistant
+content: I'm sorry to hear that. Sometimes, talking about it can help. Would you like to share more, or perhaps try a brief mindfulness exercise?
+---
+role: user
+content: A mindfulness exercise sounds good.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: What's the best way to learn a new programming language?
+---
+role: assistant
+content: There are many effective ways! Do you have a particular language in mind, or are you looking for general tips?
+---
+role: user
+content: General tips would be great.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: Tell me a joke!
+---
+role: assistant
+content: Why don't scientists trust atoms?
+---
+role: user
+content: Why?
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: I need help planning a healthy meal.
+---
+role: assistant
+content: Great! Are you looking for breakfast, lunch, or dinner ideas? And do you have any dietary restrictions or preferences?
+---
+role: user
+content: Dinner, and I'm vegetarian.
+--- CONVERSATION END ---
+
+--- CONVERSATION START ---
+role: user
+content: What's the story behind the Mona Lisa?
+---
+role: assistant
+content: The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. It is considered an archetypal masterpiece of the Italian Renaissance, and has been described as "the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world." What else would you like to know about it?
+---
+role: user
+content: Who was the woman in the painting?
+--- CONVERSATION END ---
