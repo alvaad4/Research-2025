@@ -32,5 +32,5 @@ export HF_TOKEN="<insert your huggingface access token here>"
 IDK what to put here yet
 
 ## Contact
-Adam Alvarado - alvaad4@furman.edu
+Adam Alvarado - alvaad4@furman.edu\
 Rick King - kingri8@furman.edu
