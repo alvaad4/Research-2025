@@ -26,6 +26,10 @@ export HF_TOKEN="<insert your huggingface access token here>"
 #This runs all listed models
 ./25q_llama_cpp.sh
 
+
+#This runs all models with various caps on CPU utilization (Sudo is required for systemd-run command, -E maintains environment vars like PATH and HF_TOKEN)
+sudo -E ./master_script
+
 ```
 
 ## Features
