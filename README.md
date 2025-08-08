@@ -6,7 +6,7 @@ This is a breif description of our project
  -[Installation](#Installation)\
  -[Usage](#Usage)\
  -[Features](#Features)\
- -[Contact](#Contact)\
+ -[Contact](#Contact)
 
  ## Installation
  ```
