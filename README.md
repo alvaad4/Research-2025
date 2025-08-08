@@ -3,10 +3,10 @@
 This is a breif description of our project
 
 ## Table of Contents
- -Installation [Link Text](#Installation)
- -Usage [Link Text](#Usage)
- -Features [Link Text](#Features)
- -Contact [Link Text](#Contact)
+ -[Installation](#Installation)\
+ -[Usage](#Usage)\
+ -[Features](#Features)\
+ -[Contact](#Contact)\
 
  ## Installation
  ```
